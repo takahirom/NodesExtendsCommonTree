@@ -1,0 +1,12 @@
+;; file of .gitignore
+tags
+*~
+.buildpath
+.project
+.DS_Store
+.settings/
+cache/
+logs/
+copy/
+output/
+
